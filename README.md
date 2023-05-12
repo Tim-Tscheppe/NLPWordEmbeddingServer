@@ -9,10 +9,8 @@ In NLP (Neural Language Processing), a lot of work still uses word embeddings to
 1. Connect to API with Python
 2. In Python, format word(s) into JSON
 3. Post JSON to Rust Server
-'------------ Server -------------------
 4. Read JSON
 5. Perform word embeddings
 6. Return JSON
-'---------------------------------------
 7. Convert JSON back into vectors
 8. Return outputs as a vector list
