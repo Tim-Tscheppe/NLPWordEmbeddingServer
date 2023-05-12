@@ -14,3 +14,9 @@ In NLP (Neural Language Processing), a lot of work still uses word embeddings to
 6. Return JSON
 7. Convert JSON back into vectors
 8. Return outputs as a vector list
+
+### To Build (On *Nix Machines)
+
+git clone https://github.com/Tim-Tscheppe/NLPWordEmbeddingServer.git
+cd NLPWordEmbeddingServer/server
+cargo build
